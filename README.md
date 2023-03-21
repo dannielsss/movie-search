@@ -1,20 +1,14 @@
 # Movie Search 🎥
+[View in deploy](https://movie-search-sand.vercel.app/)
 
-## 🧐 About 
-
-This project has been created with the purpose of learning about svelte using an api to search for movies
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
+### 💻 Installing
 ```
-Clone repository **git clone https://github.com/dannielsss/movie-search.git**
-Install dependencies **cd movie-search && npm install**
-Run **npm run dev**
+git clone https://github.com/dannielsss/movie-search.git**
+cd movie-search && npm install
+npm run dev
 ```
 
-## ⛏️ Built Using
+### ⛏️ Built Using
 
 - [Svelte](https://svelte.dev/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
