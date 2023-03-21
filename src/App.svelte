@@ -52,7 +52,7 @@
   </div>
 
   <footer>
-    <a href="/">View in github</a>
+    <a href="https://github.com/dannielsss/movie-search">View in github</a>
   </footer>
 </main>
 
