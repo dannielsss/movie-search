@@ -111,4 +111,17 @@
     top: 50%;
     transform: translateY(-50%);
   }
+
+  @media screen and (max-width: 992px) {
+    main {
+      width: 100%;
+      padding: 3rem;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    header {
+      font-size: 1.5rem;
+    }
+  }
 </style>
