@@ -10,7 +10,7 @@
   $: if (movieName.length > 2) {
     // Guardo la promesa
     moviesPromise = fetch(
-      `https://www.omdbapi.com/?s=${movieName}&apikey=422350ff`
+      `https://www.omdbapi.com/?s=${movieName.trim()}&apikey=422350ff`
     )
       .then((res) => res.json())
       .then((apiResponse) => apiResponse.Search);
