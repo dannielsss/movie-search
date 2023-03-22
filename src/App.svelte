@@ -120,6 +120,11 @@
   }
 
   @media screen and (max-width: 600px) {
+
+    footer {
+      top: 0;
+    }
+    
     header {
       font-size: 1.5rem;
     }
