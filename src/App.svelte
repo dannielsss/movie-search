@@ -17,7 +17,6 @@
   }
 </script>
 
-<!-- ! Fata hacer la card para las peliculas -->
 <main>
   <header>🎞 Movie Search</header>
   <div class="search-container">
